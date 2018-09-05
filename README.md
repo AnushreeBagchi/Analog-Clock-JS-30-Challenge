@@ -2,7 +2,7 @@
 
 ## This is a part of the 30 day [Javascript Challenge](https://javascript30.com/) 
 
-Take this for a spin at [https://anushreebagchi.github.io/Drum-kit/](https://anushreebagchi.github.io/Drum-kit/)
+Take this for a spin at [https://anushreebagchi.github.io/Analog-Clock-JS-30-Challenge/](https://anushreebagchi.github.io/Analog-Clock-JS-30-Challenge/)
 
 ### Features 
 - Built primarily with vanilla css and minimum use of JS.
