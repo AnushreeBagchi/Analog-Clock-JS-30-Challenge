@@ -1,0 +1,13 @@
+# Analog-Clock-JS-30-Challenge
+
+## This is a part of the 30 day [Javascript Challenge](https://javascript30.com/) 
+
+Take this for a spin at [https://anushreebagchi.github.io/Drum-kit/](https://anushreebagchi.github.io/Drum-kit/)
+
+### Features 
+- Built primarily with vanilla css and minimum use of JS.
+
+
+![alt text](https://media.giphy.com/media/9xijA0G3FvxvH4lpm1/giphy.gif "Image of the project")
+
+Installation: Clone or download this repo and simply open the index.html file and enjoy!
